@@ -1,8 +1,8 @@
 {
-  "client_id": "",
-  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
-  "authorization_scope": "openid email profile",
-  "discovery_uri": "",
+  "client_id": "onexapp",
+  "redirect_uri": "my.onexox.onedev:/onexapp/token",
+  "authorization_scope": "openid email profile subscription",
+  "discovery_uri": "https://onedev.onexox.my/auth/realms/onesys/.well-known/openid-configuration",
   "authorization_endpoint_uri": "",
   "token_endpoint_uri": "",
   "registration_endpoint_uri": "",
